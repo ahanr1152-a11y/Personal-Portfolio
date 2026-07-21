@@ -39,11 +39,6 @@ To create an engaging and interactive portfolio that reflects my personality as 
 - Smooth navigation and animations
 - Clean and responsive design
 
-## 📸 Preview
-*(Add screenshots or a GIF of your portfolio here.)*
-
-## 🌐 Live Demo
-**Portfolio:** *(Add your deployed website link here.)*
 
 ## 👨‍💻 Developer
 **Ahan Raj**
